@@ -1,0 +1,8 @@
+{
+  "name": "NOIRÉ — Specialty Coffee & Roastery",
+  "description": "Beyond the ordinary cup. Small-batch single-origin coffee, ceremonial matcha, and architectural café hospitality in SoHo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
